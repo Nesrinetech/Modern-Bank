@@ -14,12 +14,9 @@ const Billing = () => (
 
     <div className={layout.sectionInfo}>
         <h2 className={styles.heading2}>
-        Easily control your <br className="sm:block hidden" /> billing &
-        invoicing
+        Streamline Your Billing <br className="sm:block hidden" />  and Invoicing Effortlessly
         </h2>
-        <p className={`${styles.paragraph} max-w-[470px] mt-5`}> Elit enim sed massa etiam. Mauris eu adipiscing ultrices ametodio
-        aenean neque. Fusce ipsum orci rhoncus aliporttitor integer platea
-        placerat.
+        <p className={`${styles.paragraph} max-w-[470px] mt-5`}> Simplify your financial operations with our user-friendly system. Efficiently manage billing and invoicing, ensuring a seamless and stress-free experience for your business.
         </p>
 
         <div className="flex flex-row flex-wrap sm:mt-10 mt-6">

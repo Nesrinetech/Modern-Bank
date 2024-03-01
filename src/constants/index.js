@@ -47,25 +47,25 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
-    title: "Founder & Leader",
+      "In the journey of life, money is the vehicle, not the driver. As the Founder & Leader, I've found that it takes you where you wish, but it can't replace the essence of who you are.",
+    name: "Isabella Bennett",
+    title: "Visionary Entrepreneur",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
+      "Discover the ease that money brings to life. If you're fortunate enough to have it, consider yourself lucky. As the Founder & Leader, I've seen how it can truly make a difference.",
+    name: "Oliver Reynolds",
+    title: "Strategic Innovator",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
+      "True wealth often lies in the realms of the money business, finance, and international trade. As the Founder & Leader, I've witnessed the prosperity that comes to those immersed in these domains.",
+    name: "Mia Thompson",
+    title: "Financial Maestro",
     img: people03,
   },
 ];

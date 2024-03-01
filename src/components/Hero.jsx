@@ -9,8 +9,8 @@ const Hero = () => {
         <div className="flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2">
           <img src={discount} alt="discount" className="w-[32px] h-[32px]" />
           <p className={`${styles.paragraph} ml-2`}>
-            <span className="text-white">20%</span> Discount For{" "}
-            <span className="text-white">1 Month</span> Account
+            <span className="text-white">50%</span> Discount For{" "}
+            <span className="text-white">12 Month</span> Account
           </p>
         </div>
 
@@ -28,7 +28,7 @@ const Hero = () => {
         for Tomorrow.
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Discover a new era in payment solutions with our dedicated team of experts. We employ a cutting-edge methodology to pinpoint the credit cards perfectly tailored to meet your unique requirements. Delving into intricacies such as annual percentage rates and fees, we ensure a comprehensive evaluation, so you can confidently embrace the next generation of payment methods. 
+        Discover a new era in payment solutions with our dedicated team of experts. We employ a cutting-edge methodology to pinpoint the credit cards perfectly tailored to meet your unique requirements. 
         </p>
       </div>
 
